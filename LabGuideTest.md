@@ -18,7 +18,6 @@ Ansible playbooks is where the code instructions are written in yaml format (hum
 - Create a simple ansible playbook to install nginx package and host static website on the server
 - Create ansible inventory.
 - Add a task to install nginx package.
-- Create config file on the server.
 - Restart nginx service using ansible.
 
 ### Prerequisites
