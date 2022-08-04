@@ -1,6 +1,6 @@
 Updated: August 4, 2022
 
-Getting started with ansible and create ansible playbook for linux server
+Getting started with ansible and create a ansible playbook for linux server
 =========================
 
 ## **Introduction**
