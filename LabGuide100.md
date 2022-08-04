@@ -59,7 +59,7 @@ web:
 mkdir templates
 ```
 
-- Add a html file called *index.html* to the folder:
+- Add a html file called *helloworld.html.j2* to the folder:
 ```
 <!DOCTYPE html>
 <html lang="en">
